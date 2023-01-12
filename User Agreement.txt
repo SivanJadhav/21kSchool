@@ -2,7 +2,7 @@ User Agreement:
 
 By accessing and using this GitHub repository, you agree to the following terms and conditions:
 
-This repository will remain active for grade 9 users and there will be no new channels oonly one new repository will be created called "Grade 9" and grade 8 stuff will be moved to new repository called "Grade 9".
+This repository will remain active for grade 9 users and there will be no new repository only one new branch will be created called "Grade 9" and grade 8 stuff will be moved to new branch called "Grade 9".
 
 Any different repositories that are copied or inspired from my repository, I do not have any control over and will not be held responsible for any issues that may arise from their use. If anyone is found using a repository other than mine, access to mine will be revoked. If you wish to use other repositories, you can do so at your own risk, but please be aware that the access to my repository will be revoked in that case.
 
