@@ -1,0 +1,3 @@
+"Welcome to my GitHub repository! Here you will find a vast collection of valuable resources that I have compiled over time. Whether you are a student looking for some flip class docs, a professional seeking inspiration for your next presentation, or a writer searching for the perfect script, this repository is sure to have something for you.
+
+Inside, you will find a variety of documents, including flip class scripts/docs, Canva links, speeches(txt script), and scripts. Each one has been carefully curated to ensure that they are accurate, informative, and relevant. I strive to keep the information in this repository up-to-date, so you can be sure that you are getting the most current information available."
