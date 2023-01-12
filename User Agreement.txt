@@ -6,7 +6,7 @@ This repository will remain active for grade 9 users and there will be no new re
 
 Any different repositories that are copied or inspired from my repository, I do not have any control over and will not be held responsible for any issues that may arise from their use. If anyone is found using a repository other than mine, access to mine will be revoked. If you wish to use other repositories, you can do so at your own risk, but please be aware that the access to my repository will be revoked in that case.
 
-Any questions or concerns regarding the use of GitHub can be sent to this email: notflame4xD+github-21k@gmail.com, and also this is for the users who don't know how to use GitHub. You can also send your content to this email if you are unaware of how to use GitHub.
+This is for the users who don't know how to use GitHub. You can also send your content to this email if you are unaware of how to use GitHub.           notflame4xD+github-21k@gmail.com.
 
 Any violation of this agreement will result in revocation of access to the repository.
 
